@@ -263,7 +263,7 @@ a {
 .callback {
   padding: 100px;
   text-align: center;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 0 100%), url(../img/callback.avif) no-repeat center/cover;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 0 100%), url(../img/callback.jpg) no-repeat center/cover;
   color: #fff;
 }
 @media (max-width: 962px) {
@@ -353,7 +353,7 @@ a {
 }
 .about {
   padding: 150px 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 0 100%), url(../img/about.avif) no-repeat center/cover;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 0 100%), url(../img/about.jpg) no-repeat center/cover;
 }
 .about__body {
   background: #fff;
