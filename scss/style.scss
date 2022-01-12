@@ -37,7 +37,7 @@ a {
 		align-items: center;
 		justify-content: space-between;
 		@media (max-width: 767px) {
-			flex-wrap: wrap;
+			flex-direction: column;
 		}
 	}
 	&__contact {
